@@ -15,7 +15,7 @@
 </p>
 		<h2>Persona & UseCase 2</h2>
 <p>
-	John Smith, 45, is the CEO of a DevelopIt! INC. a web development start-up and needs another Junior Developer to add to the team to help with the workload. he will be on his fancy expense PC desktop running Linux OS and google Chrome looking at webpages of perspective employers in the 30 minutes of break he as before interviewing potential candidates. John is looking for a team player with basic technical programming skills as well as an artistic style. Someone who's skills are diverse but most importantly understands back to front web development, programming languages and both Mac and Windows OS systems. Preferably someone who is self motivated, a team player and willing to learn.
+	John Smith, 45, is the CEO of a DevelopIt! INC. a web development start-up and needs another Junior Developer to add to the team to help with the workload. he will be on his fancy expense PC desktop running Linux OS and google Chrome looking at web pages of perspective employees in the next 30 minutes of break he as before interviewing potential candidates. John is looking for a team player with basic technical programming skills as well as an artistic style. Someone who's skills are diverse but most importantly understands back to front web development, programming languages and both Mac and Windows OS systems. Preferably someone who is self motivated, a team player and willing to learn.
 </p>
 	</body>
 </html>
