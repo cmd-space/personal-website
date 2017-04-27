@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Isles Designs</title>
-			<meta charset="UTF-8">
+			<meta charset="UTF-8"/>
 	</head>
 	<body>
 		<h2>Purpose, Audience & Goal</h2>
@@ -11,7 +11,7 @@
 </p>
 		<h2>Persona & UseCase 1</h2>
 <p>
-	Cherish, 32, is planning on getting married on June 3rd 2018 and she heard on social media that I am a photographer and is interested in hiring me for that weekend. She mostly web browses on her iPhone 5 with safari and she is thinking of hiring me as her wedding photographer. She works for the government and lives comfortably on the west side of town with her fiance. She's looking for some of my photos featuring couples in weddings and engagement sessions. Cherish is looking for someone with an artistic style who will fit in like she's part of the family at the wedding. She would like someone with a warm personality but also very professional. She wants photos that she will keep forever, in scrapbooks, frams on the mantel and to post on social media.
+	Cherish, 32, is planning on getting married on June 3rd 2018 and she heard on social media that I am a photographer and is interested in hiring me for that weekend. She mostly web browses on her iPhone 5 with safari and she is thinking of hiring me as her wedding photographer. She works for the government and lives comfortably on the west side of town with her fiance. She's looking for some of my photos featuring couples in weddings and engagement sessions. Cherish is looking for someone with an artistic style who will fit in like she's part of the family at the wedding. She would like someone with a warm personality but also very professional. She wants photos that she will keep forever, in scrapbooks, frames on the mantel and to post on social media.
 </p>
 		<h2>Persona & UseCase 2</h2>
 <p>
