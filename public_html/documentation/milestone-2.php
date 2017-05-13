@@ -14,6 +14,7 @@
 		<div>
 			<img src="" alt="full browser layout">
 			<img src="" alt="full mobile layout"
+
 		</div>
 	</body>
 </html>
